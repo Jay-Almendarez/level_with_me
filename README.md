@@ -1,5 +1,15 @@
 # video_game_ind_project
 ---
+## Summary
+### Initial Goals
+- Discover what genre has most sales globally
+  - Does that follow when we apply regionality?
+### Findings
+- Genre selection plays a significant role in both global and regional markets
+### Next Steps
+- More regional data should be collected for individualised marketeting strategies
+- Genre selection should be adapted in marketing techniques
+---
 ## Project Description
 ### Video games have been around for decades now, and they only get more and more popular as time goes on. Consoles, characters, and price may change but one thing has stayed throughout, and it's the stories they tell. Similar to tv and movies, the genre they fall into define the content and usually fans of a genre will flock to new content purely if it is in the same style. As an avid gamer and someone who's seen the power of analysis, I wanted to see if we could determine how well a game might do purely off the genre it belongs to. This project will perform surface level analysis on the insights of genre in 3 different regions of the world as well as a global overview with the hope of conducting more in depth analysis as time progresses.
 ---
